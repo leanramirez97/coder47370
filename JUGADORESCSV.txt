@@ -1,0 +1,251 @@
+Nombre,Apellido,Nacimiento,Nacionalidad,Position,Id_equipo,Id_jugador
+Fanchon,Ruddle,1992-08-21,Macedonia,Defender,1,1
+Percy,Ruttgers,2006-10-08,China,Midfielder,2,2
+Mohammed,McIlrath,1991-08-11,Russia,Defender,3,3
+Thekla,Pau,1995-05-21,Canada,Midfielder,4,4
+Rosamond,Danielsky,1992-06-01,Philippines,Defender,5,5
+Zachary,Sever,2003-09-15,Indonesia,Forward,6,6
+Jasmin,Linfitt,1991-08-20,Japan,Forward,7,7
+Leola,Hollidge,2006-05-06,Japan,Defender,8,8
+Burl,Ohms,1996-10-08,Brazil,Midfielder,9,9
+Kent,Cursey,1993-05-10,Canada,Forward,10,10
+Heddi,Luckie,1991-09-19,Peru,Goalkeeper,11,11
+Kalli,Ciementini,2005-03-07,Nicaragua,Goalkeeper,12,12
+Gizela,Le Houx,1992-10-01,Russia,Defender,13,13
+Hailee,Bicknell,1995-03-05,France,Defender,14,14
+Enriqueta,Vedyaev,1994-01-03,Philippines,Midfielder,15,15
+Jamill,Delamaine,1998-02-20,China,Defender,16,16
+Hermon,Churchin,2003-10-22,Brazil,Goalkeeper,17,17
+Ardys,Stoven,2002-03-13,China,Midfielder,18,18
+Dorolisa,Bennison,2003-05-04,Nepal,Midfielder,19,19
+Martin,Goldstraw,2005-02-27,Sweden,Forward,20,20
+Mariele,Sterland,2000-08-21,China,Forward,21,21
+Teresa,Attlee,1992-11-15,Botswana,Forward,22,22
+Dianemarie,Greene,1998-02-19,Argentina,Goalkeeper,23,23
+Budd,Boud,1993-08-10,Russia,Forward,24,24
+Allen,Quesne,2002-05-11,China,Goalkeeper,25,25
+Oran,Storer,1995-07-07,Brazil,Defender,26,26
+Hubie,Lacasa,1998-04-22,Albania,Defender,27,27
+Mar,Margrett,1991-08-05,Tanzania,Defender,28,28
+Kriste,Trever,2000-08-09,France,Goalkeeper,29,29
+Holt,Solan,2003-11-22,China,Defender,30,30
+Kittie,MacElharge,1996-10-23,Brazil,Midfielder,31,31
+Halli,Causey,2002-08-07,Russia,Forward,32,32
+Tisha,Hollerin,2003-11-20,South Africa,Goalkeeper,33,33
+Cheryl,Milkins,2004-12-02,Cameroon,Forward,34,34
+Maximo,Whissell,1993-10-14,Portugal,Midfielder,35,35
+Flemming,Jopp,2002-05-05,Serbia,Midfielder,36,36
+Isabelita,Lawless,1994-04-23,Kazakhstan,Forward,37,37
+Vito,Seifenmacher,1999-09-16,Sweden,Goalkeeper,38,38
+Rhodia,Boggas,1992-03-14,Russia,Midfielder,39,39
+Salem,Muscroft,1992-07-30,Cambodia,Midfielder,40,40
+Krispin,Mapes,1996-07-19,Yemen,Defender,41,41
+Hadleigh,Blackborne,1997-07-01,Poland,Forward,42,42
+Trudy,Capsey,2004-03-01,Honduras,Defender,43,43
+Giralda,Holliar,2004-04-28,Luxembourg,Midfielder,44,44
+Cord,Gudde,1998-08-27,Indonesia,Forward,45,45
+Gard,Kopfen,1993-10-15,Brazil,Goalkeeper,46,46
+Ignacio,Farnish,2002-04-06,France,Goalkeeper,47,47
+Howie,Whittick,1993-10-25,China,Forward,48,48
+Chastity,McKinna,1994-08-20,China,Forward,49,49
+Shelby,Whiteman,1992-12-01,Ukraine,Midfielder,50,50
+Lynde,Culleford,1992-08-27,Kenya,Defender,51,51
+Bernarr,Marquet,1998-08-04,Slovenia,Midfielder,52,52
+Derron,Jubert,2003-03-19,Thailand,Defender,53,53
+Leticia,Lillywhite,1991-05-16,Ukraine,Forward,54,54
+Harold,Muldowney,2003-02-11,United Kingdom,Forward,55,55
+Efren,Alfonzo,2004-04-04,France,Goalkeeper,56,56
+Mitchael,Eagell,2006-05-29,Morocco,Goalkeeper,57,57
+Bernetta,Keirle,1998-10-07,Portugal,Midfielder,58,58
+Sianna,Woolerton,1994-05-18,Thailand,Goalkeeper,59,59
+Claire,Toor,2001-07-28,Russia,Forward,60,60
+Haskel,Pecht,1994-12-29,China,Defender,61,61
+Bern,Wolseley,1993-12-29,Honduras,Forward,62,62
+Gunter,Denniston,1996-05-18,China,Forward,63,63
+Riannon,Tesche,1997-06-17,Indonesia,Defender,64,64
+Marietta,Barnewall,1993-05-09,Brazil,Defender,65,65
+Alexis,Wiltsher,1999-11-30,China,Goalkeeper,66,66
+Luigi,Stammer,2000-04-18,China,Defender,67,67
+Meyer,Sedwick,1993-11-25,Marshall Islands,Forward,68,68
+Modestia,Touson,1991-02-27,Nigeria,Forward,69,69
+Powell,Haliburton,1994-09-17,China,Forward,70,70
+Marci,Haskett,1997-01-13,Indonesia,Goalkeeper,71,71
+Batholomew,Pringley,2006-09-04,France,Midfielder,72,72
+Durante,Greveson,1996-08-21,China,Goalkeeper,73,73
+Lilith,Wandrey,1994-03-07,Portugal,Goalkeeper,74,74
+Margi,Dunbleton,1994-10-23,France,Midfielder,75,75
+Lucais,Peare,2003-09-16,China,Goalkeeper,76,76
+Rici,Darville,2005-04-18,Philippines,Goalkeeper,77,77
+Kalila,Lafontaine,2005-11-27,North Korea,Goalkeeper,78,78
+Kevyn,Timby,2003-07-19,Cuba,Goalkeeper,79,79
+Alie,Paragreen,2001-12-30,Indonesia,Defender,80,80
+Louis,Pluthero,2004-01-14,Liberia,Forward,81,81
+Arabela,Vynehall,1993-03-09,China,Defender,82,82
+Petronilla,Innerstone,1992-09-27,Philippines,Defender,83,83
+Rennie,Whiteson,1994-11-24,China,Forward,84,84
+Kenyon,Lewing,1990-11-04,Indonesia,Defender,85,85
+Todd,Camelia,1990-11-03,Philippines,Defender,86,86
+Flem,Elton,2006-10-08,Indonesia,Midfielder,87,87
+Connie,Offa,1996-10-06,China,Midfielder,88,88
+Biddy,Sollitt,1992-03-11,Luxembourg,Goalkeeper,89,89
+Claudie,Arrighi,1991-08-25,Brazil,Forward,90,90
+Blanche,Thripp,2000-07-18,China,Midfielder,91,91
+Genevieve,Osmint,1994-12-19,Indonesia,Midfielder,92,92
+Conney,Fechnie,1995-03-04,Indonesia,Defender,93,93
+Eli,Kovnot,2004-04-26,France,Defender,94,94
+Marice,Faltin,1992-10-13,Finland,Defender,95,95
+Jody,Edwinson,2002-08-06,Philippines,Forward,96,96
+Cymbre,Frensch,2005-12-10,China,Forward,97,97
+Dalt,Brennan,1994-08-06,Austria,Midfielder,98,98
+Sutherland,Lossman,1991-03-17,Russia,Midfielder,99,99
+Rodrique,Kearns,1998-09-30,Indonesia,Midfielder,100,100
+Ruthi,Mingard,2004-06-10,Ghana,Forward,101,101
+Phoebe,Chattoe,1996-09-24,France,Goalkeeper,102,102
+Inigo,Issatt,2000-09-30,Philippines,Midfielder,103,103
+Magnum,Ling,1991-12-22,France,Goalkeeper,104,104
+Monique,Gibbins,1993-07-09,China,Midfielder,105,105
+Baillie,Balma,2000-08-01,Portugal,Defender,106,106
+Chloette,McPharlain,2005-08-05,Serbia,Goalkeeper,107,107
+Hugh,Zucker,2001-05-04,China,Defender,108,108
+Lynde,Beddo,1991-06-09,Indonesia,Defender,109,109
+Kaia,Do Rosario,1995-06-13,Peru,Defender,110,110
+Raff,Hryncewicz,1999-12-19,China,Goalkeeper,111,111
+Joellyn,Gotcliffe,1995-06-30,Indonesia,Goalkeeper,112,112
+Shel,Shinton,1990-11-12,Portugal,Forward,113,113
+Curtice,Slayny,1999-05-15,Poland,Forward,114,114
+Elayne,Broodes,1997-04-09,Poland,Midfielder,115,115
+Marcel,Donahue,1995-04-12,Malawi,Midfielder,116,116
+Anthia,Wragge,1999-11-26,Indonesia,Forward,117,117
+Ritchie,Norvell,1996-02-06,China,Midfielder,118,118
+Stevena,Brosch,1994-01-16,Sierra Leone,Midfielder,119,119
+Clotilda,Dando,1995-06-02,Indonesia,Defender,120,120
+Loreen,Hlavac,1996-02-13,Portugal,Goalkeeper,121,121
+Peggi,Carr,2001-09-07,Poland,Goalkeeper,122,122
+Sissy,McShane,1999-01-29,Poland,Defender,123,123
+Ulises,Mc Meekan,2001-02-11,Poland,Midfielder,124,124
+Bartholomeus,Jerosch,1992-05-10,Japan,Forward,125,125
+Murry,Flagg,1999-02-22,Russia,Defender,126,126
+Chet,Bartolomeotti,1992-12-30,Portugal,Forward,127,127
+Marybelle,Varley,1995-11-08,Philippines,Forward,128,128
+Elsinore,Wennington,2004-11-24,China,Forward,129,129
+Julius,Rennebach,2003-04-04,Poland,Midfielder,130,130
+Myrtia,Bowley,1990-10-25,Indonesia,Defender,131,131
+Lorna,Calbert,2001-06-16,Ukraine,Forward,132,132
+Dinah,Penticost,1993-10-11,Philippines,Goalkeeper,133,133
+Caz,Carthy,1994-04-06,South Africa,Forward,134,134
+Ethelbert,Doneld,1996-11-25,Philippines,Goalkeeper,135,135
+Damon,Tierny,2004-04-26,China,Midfielder,136,136
+Cynthea,Simonnet,1995-08-28,Poland,Midfielder,137,137
+Phillie,Barreau,1994-05-25,Bulgaria,Defender,138,138
+Mair,Hynde,1991-08-09,Ukraine,Goalkeeper,139,139
+Wainwright,Durak,1991-04-17,Portugal,Forward,140,140
+Traci,Rozsa,1992-10-03,South Korea,Forward,141,141
+Carey,Churchill,2005-11-18,France,Defender,142,142
+Trevor,Tissiman,1999-05-21,China,Midfielder,143,143
+Chlo,Fielder,2005-10-04,Canada,Goalkeeper,144,144
+Jan,Clapton,1992-10-28,Bulgaria,Defender,145,145
+Lennie,Cristofalo,1992-04-19,Dominican Republic,Forward,146,146
+Dominique,McGraffin,2002-12-01,United States,Defender,147,147
+Danny,Cona,1998-12-12,Russia,Defender,148,148
+Donovan,Meritt,2005-07-31,Indonesia,Forward,149,149
+Murvyn,Brocklebank,1993-12-17,Burkina Faso,Defender,150,150
+Tremaine,Gynni,1994-11-22,Russia,Goalkeeper,151,151
+Field,Billson,2002-07-17,China,Forward,152,152
+Floria,Toothill,1996-07-22,Lithuania,Forward,153,153
+Cliff,Sheahan,1995-10-29,South Korea,Defender,154,154
+Augy,Whitington,1993-05-12,China,Defender,155,155
+Lief,Aronov,1999-09-28,Poland,Goalkeeper,156,156
+Vergil,Rizzardi,1993-12-21,Brazil,Defender,157,157
+Zerk,O' Clovan,2005-10-14,Bulgaria,Goalkeeper,158,158
+Upton,Berka,2001-12-01,Portugal,Midfielder,159,159
+Tim,Coorington,2002-05-23,Poland,Midfielder,160,160
+Anastasie,Blything,1995-07-10,Ireland,Midfielder,161,161
+Danell,Sibbit,1997-04-14,Indonesia,Goalkeeper,162,162
+Floyd,Robathon,2003-11-04,Sweden,Goalkeeper,163,163
+Leeann,Rouby,2004-07-19,China,Goalkeeper,164,164
+Viv,Baly,2005-02-22,China,Goalkeeper,165,165
+Jan,Garlett,1996-02-20,Kuwait,Goalkeeper,166,166
+Zacharias,Winfindale,2000-03-14,Dominica,Goalkeeper,167,167
+Amery,Alliot,2000-02-14,Argentina,Midfielder,168,168
+Andeee,Showers,2006-04-18,China,Goalkeeper,169,169
+Ivar,Riddock,1998-08-10,Togo,Midfielder,170,170
+Camilla,Klehn,2006-08-16,United States,Midfielder,171,171
+De witt,Gradon,2001-05-26,Russia,Goalkeeper,172,172
+Gabriello,Irving,1992-09-10,Azerbaijan,Goalkeeper,173,173
+Malanie,Juster,1996-10-13,Russia,Defender,174,174
+Alameda,Aingel,2006-04-11,Brazil,Forward,175,175
+Dell,Pickup,2002-03-20,China,Midfielder,176,176
+Juanita,Treble,1994-10-24,Albania,Midfielder,177,177
+Catie,Maccraw,2002-09-02,Poland,Goalkeeper,178,178
+Selia,Dailey,1994-09-22,China,Goalkeeper,179,179
+Pincas,Collins,1998-03-20,Afghanistan,Forward,180,180
+Parnell,Willcocks,2000-08-05,Japan,Goalkeeper,181,181
+Townie,McGinney,2002-12-03,Colombia,Forward,182,182
+Davida,Matijasevic,2006-09-13,Malta,Goalkeeper,183,183
+Daren,Errichelli,2001-06-12,Japan,Forward,184,184
+Myrlene,Domanek,1991-11-24,Colombia,Goalkeeper,185,185
+Kattie,Neagle,1993-09-15,Guatemala,Forward,186,186
+Sayre,Oakly,1994-01-09,Japan,Goalkeeper,187,187
+Mab,Saltwell,1994-09-20,Sweden,Defender,188,188
+Pearl,Juszczyk,1994-03-28,China,Goalkeeper,189,189
+Lew,Simonyi,2005-07-03,Yemen,Forward,190,190
+Fredek,Teare,2004-12-15,China,Defender,191,191
+Tuesday,Polly,1994-02-17,Portugal,Midfielder,192,192
+Sidonia,Eringey,1991-09-16,Peru,Defender,193,193
+Robbie,Bachnic,2004-10-17,New Zealand,Midfielder,194,194
+Anetta,Topliss,2004-01-19,Bosnia and Herzegovina,Goalkeeper,195,195
+Sergent,Goburn,2005-09-08,Philippines,Goalkeeper,196,196
+Jamil,Hunnicutt,2000-01-29,Colombia,Forward,197,197
+Romeo,Grigor,2003-12-22,Brazil,Forward,198,198
+Neala,Haslin,2005-11-06,Italy,Forward,199,199
+Batsheva,Solland,1998-09-24,New Zealand,Forward,200,200
+Clarette,Brosh,2000-11-25,Ireland,Defender,201,201
+Angelina,Dunwoody,2005-11-12,Germany,Midfielder,202,202
+Katherine,Bixley,1994-11-14,Cuba,Goalkeeper,203,203
+Chlo,Fitzsimon,1994-09-25,Peru,Goalkeeper,204,204
+Regan,Banaszczyk,2004-05-13,Israel,Defender,205,205
+Rubia,Kitchingman,1996-05-04,United States,Midfielder,206,206
+Albina,Kleinholz,2000-11-07,Brazil,Forward,207,207
+Sherie,Dingwall,1990-11-21,Portugal,Defender,208,208
+Jocelyne,Jiru,1996-10-18,Honduras,Goalkeeper,209,209
+Ara,Okill,1994-09-28,China,Midfielder,210,210
+Tillie,Tattoo,1992-04-29,China,Goalkeeper,211,211
+Milli,Olivia,1995-04-17,Vietnam,Midfielder,212,212
+Stern,Delacourt,1993-02-07,China,Goalkeeper,213,213
+Conan,Van de Velde,1995-08-01,China,Goalkeeper,214,214
+Jada,Pauling,2001-11-24,China,Defender,215,215
+Towny,Moorey,2004-11-06,China,Forward,216,216
+Sapphire,Wolfindale,1995-08-31,Poland,Defender,217,217
+Benedict,Pesak,1999-03-04,China,Goalkeeper,218,218
+Ferrell,Stanlake,2002-07-08,China,Defender,219,219
+Sonny,Kleszinski,1995-07-05,Slovenia,Defender,220,220
+Sallyanne,Nineham,1992-10-19,New Zealand,Defender,221,221
+Rickey,Persitt,1998-12-18,French Polynesia,Midfielder,222,222
+Morley,Schuler,2001-12-27,Poland,Defender,223,223
+Cortie,Shane,1993-01-05,Pakistan,Midfielder,224,224
+Laura,De Hooge,1994-09-27,Ukraine,Goalkeeper,225,225
+Gennie,Atheis,2006-08-12,Sweden,Forward,226,226
+Samson,Macallam,2000-06-15,Indonesia,Midfielder,227,227
+Neal,Couser,2000-01-21,Ukraine,Goalkeeper,228,228
+Kelvin,Pressnell,1991-12-03,Peru,Forward,229,229
+Martica,Leahy,1991-11-04,Brazil,Goalkeeper,230,230
+Lynnett,Vinter,2005-04-25,China,Defender,231,231
+Delila,Hutton,1991-05-31,Thailand,Forward,232,232
+Darill,Addicott,2003-09-07,Iraq,Goalkeeper,233,233
+Mayor,Vasile,2002-12-24,Indonesia,Goalkeeper,234,234
+Andras,Cadigan,1992-01-02,Indonesia,Defender,235,235
+Estele,Vizor,1995-04-26,China,Forward,236,236
+Terri-jo,MacAughtrie,1995-05-26,Malaysia,Forward,237,237
+Jamesy,Fidge,1999-10-11,China,Defender,238,238
+Mikael,Stopforth,1999-05-26,Indonesia,Defender,239,239
+Sherm,Caughey,1996-01-12,Germany,Goalkeeper,240,240
+Janela,Gehrts,1994-05-08,China,Forward,241,241
+Yance,Severns,1991-03-04,Canada,Defender,242,242
+Aimee,Peaddie,2006-06-16,Brazil,Defender,243,243
+Easter,People,1996-11-12,Greece,Midfielder,244,244
+Pegeen,Butrimovich,2005-12-12,China,Defender,245,245
+Sibylla,Cooney,1996-11-25,France,Defender,246,246
+Rosemonde,Adkin,2002-09-02,Sweden,Midfielder,247,247
+Wilone,Chisholm,2000-03-09,China,Defender,248,248
+Valida,Fallanche,1992-10-23,Czech Republic,Defender,249,249
+Lorry,Scrigmour,2002-01-23,Philippines,Defender,250,250

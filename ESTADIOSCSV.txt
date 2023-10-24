@@ -1,0 +1,21 @@
+Id_estadio,Estadio_nombre,Capacidad,Ciudad
+1,Anfield,54074,Liverpool
+2,Old Trafford,74879,Manchester
+3,Etihad Stadium,55017,Manchester
+4,Stamford Bridge,40853,London
+5,King Power Stadium,32261,Leicester
+6,Tottenham Hotspur Stadium,62062,London
+7,Molineux Stadium,32050,Wolverhampton
+8,Emirates Stadium,60704,London
+9,Bramall Lane,32702,Sheffield
+10,Turf Moor,21994,Burnley
+11,St Mary's Stadium,32689,Southampton
+12,Goodison Park,39571,Liverpool
+13,St James' Park,52338,Newcastle
+14,Selhurst Park,26047,London
+15,AMEX Stadium,31800,Brighton
+16,London Stadium,62500,London
+17,Villa Park,42682,Birmingham
+18,Dean Court,11500,Bournemouth
+19,Vicarage Road,22220,Watford
+20,Carrow Road,27244,Norwich
