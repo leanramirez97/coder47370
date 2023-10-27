@@ -1,0 +1,501 @@
+ID_JUGADOR,NOMBRE,APELLIDO,NACIMIENTO,NACIONALIDAD,POSICION,ID_EQUIPO
+1,Brandise,Emanuelov,2004-04-23,Brazil,Mediocampista,1
+2,Lazare,Cardozo,2002-11-13,"United States",Mediocampista,2
+3,Titus,Ferrie,1999-10-13,Portugal,Delantero,3
+4,Shaina,Martignoni,1991-06-16,China,Delantero,4
+5,Ermengarde,Daftor,2003-09-27,China,Delantero,5
+6,Cyrill,Meneyer,1992-01-08,"United States",Defensor,6
+7,Marion,Cundy,1993-07-26,Russia,Mediocampista,7
+8,Edwina,Borzone,1998-04-02,Ukraine,Portero,8
+9,Eugenio,Pavey,2002-08-18,Jamaica,Mediocampista,9
+10,Terri-jo,Pyrah,1990-04-24,Brazil,Portero,10
+11,Karin,Bradley,2003-04-28,Mongolia,Delantero,11
+12,Germana,Althrop,1996-03-30,Peru,Portero,12
+13,Micheline,Heaselgrave,1997-06-05,Philippines,Mediocampista,13
+14,Enrico,Macieja,2006-05-14,Indonesia,Delantero,14
+15,Ingra,Bowlands,1997-05-08,France,Delantero,15
+16,Ula,Welsby,1998-06-29,Canada,Mediocampista,16
+17,Galven,Roo,2000-11-18,China,Portero,17
+18,Alison,Breach,2003-06-23,Indonesia,Portero,18
+19,Merell,Upston,1994-02-08,France,Portero,19
+20,Adham,Pickavant,1999-03-19,"United States",Defensor,20
+21,Glynnis,Lantiff,2002-04-22,Sweden,Defensor,1
+22,Westbrooke,Haggard,1995-09-24,Armenia,Defensor,2
+23,Trudey,Zelley,2002-05-25,China,Defensor,3
+24,Teddy,Ashfold,1996-03-05,France,Defensor,4
+25,Ulrich,Martinuzzi,1992-05-25,China,Mediocampista,5
+26,Dena,MacDaid,2005-01-06,Poland,Portero,6
+27,Lanette,Coetzee,1999-07-11,Kazakhstan,Mediocampista,7
+28,Edlin,Weatherill,1999-12-05,China,Portero,8
+29,Timothy,Jannex,2007-08-19,Finland,Defensor,9
+30,Nanon,Ferrarello,1991-08-31,"Sri Lanka",Mediocampista,10
+31,Erhard,McTrusty,2007-06-13,France,Delantero,11
+32,Darill,Rangell,1991-03-10,"Palestinian Territory",Mediocampista,12
+33,Mariellen,Glaisner,2002-12-19,China,Defensor,13
+34,Jaime,Donaldson,1998-10-14,"United States",Portero,14
+35,Russell,Gwyllt,2002-12-11,Sweden,Delantero,15
+36,Alex,Ridge,2000-09-14,Uruguay,Defensor,16
+37,Dorian,Sayce,1995-08-03,Albania,Mediocampista,17
+38,Kary,Genty,1995-11-20,Portugal,Portero,18
+39,Pascal,Streatley,2003-02-11,France,Portero,19
+40,Sawyer,Bolzen,1990-12-09,Brazil,Mediocampista,20
+41,Latia,Marple,2006-06-03,Indonesia,Portero,1
+42,Alvina,Hasel,2004-09-16,"Czech Republic",Portero,2
+43,Hobart,Rape,2006-11-06,Canada,Portero,3
+44,Ilse,Leadbeatter,2007-02-20,Brazil,Portero,4
+45,Nerti,Copcote,2002-12-12,Sweden,Mediocampista,5
+46,Eddi,Huygens,1990-08-27,Argentina,Delantero,6
+47,Brendan,Nolton,2001-10-25,Indonesia,Mediocampista,7
+48,Bellina,McCourt,2001-04-24,Sweden,Portero,8
+49,Liz,Shillan,1992-03-31,Albania,Delantero,9
+50,Celestyn,Naton,1995-09-08,Vietnam,Portero,10
+51,Reube,Inston,1996-01-13,Argentina,Mediocampista,11
+52,Alina,Camilleri,1993-02-05,China,Portero,12
+53,Linnie,Salomon,1993-04-13,Brazil,Mediocampista,13
+54,Carleen,Headan,2003-12-15,Philippines,Defensor,14
+55,Saundra,Swafford,1999-06-15,Kazakhstan,Portero,15
+56,Evy,Yelyashev,1993-07-14,Indonesia,Portero,16
+57,Leontine,Eglinton,2007-11-19,"United States",Mediocampista,17
+58,Edna,Longridge,2007-01-15,Myanmar,Portero,18
+59,Gilbertina,Fleury,1997-09-01,Indonesia,Mediocampista,19
+60,Pennie,Awmack,2000-03-29,Indonesia,Mediocampista,20
+61,Thorny,Reace,1991-01-31,Philippines,Mediocampista,1
+62,Oralia,Alans,2001-08-14,Togo,Defensor,2
+63,Peggie,Boake,1997-01-06,China,Defensor,3
+64,Carney,"Erskine Sandys",2006-10-19,Portugal,Portero,4
+65,Rosalind,McMorran,1992-08-16,France,Delantero,5
+66,Cammie,Crosston,1991-07-09,Afghanistan,Mediocampista,6
+67,Yehudit,Paybody,1995-12-27,Canada,Portero,7
+68,Jarid,Guillford,1995-07-28,"Sri Lanka",Delantero,8
+69,Benoite,Rabl,1999-04-09,Cameroon,Delantero,9
+70,Darla,Samson,1992-09-16,Russia,Delantero,10
+71,Durand,Armistead,1999-06-13,Zambia,Delantero,11
+72,Charita,Mintram,1995-02-14,Iran,Defensor,12
+73,Jenny,Suffield,2006-12-27,Indonesia,Portero,13
+74,Elvira,Dring,2003-11-26,Indonesia,Delantero,14
+75,Adella,Willatt,1995-12-04,Paraguay,Mediocampista,15
+76,Dionis,Bercevelo,1993-11-24,Russia,Mediocampista,16
+77,Shelley,Frowing,1999-05-13,Poland,Delantero,17
+78,Steffie,Hancock,2000-09-22,China,Defensor,18
+79,Randolph,Holston,1994-05-02,Ukraine,Mediocampista,19
+80,Kev,Geharke,1997-03-22,Madagascar,Portero,20
+81,Jaymee,Conisbee,2002-05-25,Philippines,Delantero,1
+82,Liam,Baglin,1999-12-06,Poland,Defensor,2
+83,Ernestine,Eastbrook,2002-09-01,Ukraine,Defensor,3
+84,Staci,Alennikov,2001-08-24,Thailand,Portero,4
+85,Konrad,Pavy,2005-09-27,Tanzania,Mediocampista,5
+86,Roselin,Giordano,2003-03-14,China,Delantero,6
+87,Morey,Featley,2000-10-31,Russia,Defensor,7
+88,Siana,Vasiljevic,1998-03-31,Portugal,Portero,8
+89,Misti,Burtt,2003-04-26,Sweden,Mediocampista,9
+90,Pasquale,"De Witt",1998-05-02,Brazil,Defensor,10
+91,Glynnis,Lowdeane,1994-08-08,China,Defensor,11
+92,Tremain,Luesley,2006-04-15,Russia,Delantero,12
+93,Maia,Woloschin,1991-07-14,Canada,Defensor,13
+94,Saba,Bonson,1993-01-16,Poland,Mediocampista,14
+95,Amble,Boddam,2007-12-23,Russia,Delantero,15
+96,Terrie,Bascombe,1993-05-24,Russia,Mediocampista,16
+97,Sarette,Dene,1997-10-28,Croatia,Mediocampista,17
+98,Rebbecca,Heineken,1993-03-15,"New Zealand",Delantero,18
+99,Estrellita,Illem,1995-12-07,Indonesia,Mediocampista,19
+100,Mattie,Livoir,1998-12-03,Tajikistan,Portero,20
+101,Adiana,Papen,2000-01-03,China,Mediocampista,1
+102,Dinah,Weatherley,1998-08-10,"South Africa",Defensor,2
+103,Samaria,Abbatt,2006-07-17,Tuvalu,Mediocampista,3
+104,Cornelius,Mitrikhin,1995-08-16,Philippines,Portero,4
+105,Elise,Matusevich,1993-04-08,Uganda,Mediocampista,5
+106,Aldric,Stuttman,2005-02-05,Kazakhstan,Mediocampista,6
+107,Martha,Weale,1999-02-10,China,Defensor,7
+108,Broderick,Metheringham,1992-03-27,Argentina,Portero,8
+109,Morissa,Ronan,1997-09-22,Cuba,Portero,9
+110,Robb,Moncey,2000-08-28,Pakistan,Portero,10
+111,Merrilee,Stanbury,2004-01-20,Cameroon,Portero,11
+112,Cale,Vedenichev,1993-03-16,"Czech Republic",Delantero,12
+113,Josi,Jankovic,2004-10-03,Cuba,Mediocampista,13
+114,Serene,MacFadin,2000-03-03,Philippines,Mediocampista,14
+115,Elnore,Ferrieri,1999-10-21,Peru,Portero,15
+116,Muhammad,Shillaber,1996-04-13,Lithuania,Delantero,16
+117,Bradney,Duthie,2001-10-28,Poland,Delantero,17
+118,Cindra,Kinghorn,2000-12-09,Netherlands,Mediocampista,18
+119,Britni,Goundry,1998-10-16,Mali,Delantero,19
+120,Caryn,Semmens,1996-08-03,"North Korea",Delantero,20
+121,Elwira,Happer,2006-08-23,Japan,Delantero,1
+122,Hillary,Haet,2002-07-11,China,Defensor,2
+123,Godfry,Witheridge,2000-03-03,Russia,Defensor,3
+124,Loralyn,Sheridan,2003-08-31,Brazil,Mediocampista,4
+125,Taddeusz,Parrott,1996-04-25,Colombia,Delantero,5
+126,Kelbee,Drewson,2003-11-05,Philippines,Portero,6
+127,Barnie,Ritch,1999-02-02,Indonesia,Portero,7
+128,Lester,Sydall,2001-08-08,Estonia,Portero,8
+129,Pascale,Avrahamy,2001-06-29,Indonesia,Delantero,9
+130,Shelley,Matiebe,1990-05-14,Indonesia,Mediocampista,10
+131,Merle,McDool,2006-06-15,France,Defensor,11
+132,Linnet,Wardhaugh,1998-04-08,Russia,Defensor,12
+133,Corilla,Dall,2005-11-03,China,Portero,13
+134,Archibaldo,Menauteau,1991-10-29,France,Delantero,14
+135,Ruthi,Vaines,2000-09-06,Brazil,Defensor,15
+136,Ferris,Sindell,2004-03-06,Portugal,Mediocampista,16
+137,Birch,Asif,2001-12-03,"United States",Mediocampista,17
+138,Brier,Niland,2001-08-02,Philippines,Portero,18
+139,Bryant,Haill,2003-03-04,France,Defensor,19
+140,Austine,Mingo,1991-04-13,Madagascar,Defensor,20
+141,Channa,Yarwood,1996-10-01,Kenya,Delantero,1
+142,Ian,Tydd,2006-03-11,China,Mediocampista,2
+143,Phil,Woan,2001-10-29,Indonesia,Delantero,3
+144,Dalia,Remmers,2001-06-13,Armenia,Portero,4
+145,Milzie,LaBastida,2000-05-16,China,Mediocampista,5
+146,Duane,Swindell,1991-11-24,"New Caledonia",Portero,6
+147,Annette,Littlecote,2005-12-12,Vietnam,Mediocampista,7
+148,Halette,Dohrmann,1998-05-01,China,Mediocampista,8
+149,Mandie,Goulding,1998-06-05,Serbia,Defensor,9
+150,Celestia,O'Scully,1991-12-21,Poland,Defensor,10
+151,Karissa,Lemmens,2002-07-03,Thailand,Mediocampista,11
+152,Gratiana,Jobern,2003-01-02,Norway,Delantero,12
+153,Kathrine,Calafato,1997-01-10,Greece,Defensor,13
+154,Cyndia,Kullmann,1997-01-24,Indonesia,Mediocampista,14
+155,Alonso,Churchouse,1991-03-19,China,Mediocampista,15
+156,Sean,Konke,1991-08-04,China,Defensor,16
+157,Grayce,Kleinstern,2005-09-09,Finland,Defensor,17
+158,Wendye,Moine,1995-07-07,Poland,Portero,18
+159,Evelina,Bladge,1993-06-03,Sweden,Delantero,19
+160,Gianni,Haney`,1991-10-10,Indonesia,Defensor,20
+161,Jandy,Apps,2003-11-22,Indonesia,Portero,1
+162,Jaime,"O' Quirk",2004-07-22,Sweden,Portero,2
+163,Baxter,Barbisch,2007-08-22,Kazakhstan,Portero,3
+164,Evie,Fischer,1999-10-30,Brazil,Portero,4
+165,Raye,Knuckles,1997-03-03,Philippines,Defensor,5
+166,Gracia,Scandroot,1991-12-02,Japan,Portero,6
+167,Joice,Risby,1994-02-06,Poland,Defensor,7
+168,Weston,Osmond,1997-04-18,France,Defensor,8
+169,Ruby,Kinney,1998-03-15,Philippines,Defensor,9
+170,Karissa,Dome,1996-01-09,China,Mediocampista,10
+171,Noach,Weedon,1994-04-06,China,Portero,11
+172,Thomasa,Russam,1993-10-03,China,Delantero,12
+173,Bidget,Syrad,1999-01-21,China,Portero,13
+174,Ennis,Gallop,1990-09-11,China,Defensor,14
+175,Torrie,Morsley,2004-09-14,"United States",Delantero,15
+176,Lowrance,Syddie,1997-01-31,Guatemala,Mediocampista,16
+177,Emlen,Sarjeant,2002-02-01,Indonesia,Defensor,17
+178,Harland,Maudsley,1992-10-23,Ukraine,Defensor,18
+179,Gussy,McVaugh,2006-07-13,Russia,Portero,19
+180,Chandra,Exeter,2002-12-28,Philippines,Defensor,20
+181,Claus,Hurne,1999-05-29,"United States",Portero,1
+182,Emilio,Zorzoni,2001-06-30,Indonesia,Defensor,2
+183,Tracey,Breckon,1993-08-30,Indonesia,Mediocampista,3
+184,Lulita,Finlay,2006-05-25,Latvia,Delantero,4
+185,Brigitta,Castiblanco,1997-11-25,Nepal,Portero,5
+186,Auroora,McCree,1992-03-24,Kazakhstan,Mediocampista,6
+187,Ramsay,Rubery,2005-11-11,Vietnam,Portero,7
+188,Lana,O'Docherty,2004-09-14,Uganda,Delantero,8
+189,Dillon,Dziwisz,1991-03-16,Sweden,Mediocampista,9
+190,Luise,Sevier,1999-08-25,China,Delantero,10
+191,Maren,Winterbotham,2006-09-24,Indonesia,Delantero,11
+192,Giacinta,Zack,2005-07-31,Indonesia,Defensor,12
+193,Alley,Russe,1996-01-11,Brazil,Defensor,13
+194,Clarance,Fanshaw,1991-08-24,Poland,Delantero,14
+195,Davin,McQuaker,2000-11-13,France,Mediocampista,15
+196,Trudy,Hazelhurst,1997-09-17,Mexico,Portero,16
+197,Amandi,Hartless,1995-08-14,China,Delantero,17
+198,Annetta,McGeady,2000-10-28,Russia,Mediocampista,18
+199,Bonnie,Yeskin,2004-07-16,Sweden,Defensor,19
+200,Thatcher,Hulett,1990-03-03,Brazil,Portero,20
+201,Zacharia,Yeskov,1996-10-24,Argentina,Delantero,1
+202,Ron,Dobbson,1995-10-26,Japan,Delantero,2
+203,Carmela,Rings,2001-02-27,Sweden,Delantero,3
+204,Giacobo,MacGow,2001-04-16,Sweden,Mediocampista,4
+205,Mickie,Brocking,1997-02-02,China,Defensor,5
+206,Kali,Playhill,1995-01-28,Indonesia,Delantero,6
+207,Donal,Chidler,2003-09-24,"Central African Republic",Defensor,7
+208,Floria,Probin,2002-02-03,China,Mediocampista,8
+209,Kirbie,Stonuary,1997-04-04,Japan,Delantero,9
+210,Jamey,Andreichik,1990-04-17,Russia,Defensor,10
+211,Jory,Tillman,1991-05-24,Canada,Delantero,11
+212,Haywood,Faire,2001-08-03,Indonesia,Defensor,12
+213,Vidovik,Lobbe,2006-05-05,Russia,Portero,13
+214,Baxy,Bernot,2002-08-07,Ukraine,Portero,14
+215,Marylee,Farrance,2005-11-07,Philippines,Defensor,15
+216,Nan,Wile,2002-06-02,Portugal,Delantero,16
+217,Izak,Avon,2000-11-03,China,Defensor,17
+218,Cinda,Strewthers,2003-07-06,Ukraine,Delantero,18
+219,Berkly,Wyon,1999-01-19,Poland,Defensor,19
+220,Laird,Frary,2004-12-26,Nepal,Mediocampista,20
+221,Philis,Agott,1996-03-20,Luxembourg,Portero,1
+222,Heather,Camelia,2002-09-06,"United States",Mediocampista,2
+223,Agna,Simonou,1999-04-28,"Burkina Faso",Portero,3
+224,Jordon,Crimin,2005-05-29,Sweden,Defensor,4
+225,Daryl,Issatt,1995-10-27,France,Delantero,5
+226,Margaret,Castana,1990-05-05,Iran,Mediocampista,6
+227,Carlyn,Swettenham,1993-07-08,Poland,Defensor,7
+228,Sherlock,Armatys,2003-12-15,"South Africa",Delantero,8
+229,Euell,Sowten,1999-07-13,Germany,Delantero,9
+230,Ediva,Riedel,1992-05-05,Indonesia,Portero,10
+231,Stephan,Terrazzo,1990-10-28,Indonesia,Mediocampista,11
+232,Maynord,Cornwall,2004-08-04,Armenia,Delantero,12
+233,Leoline,Labitt,2005-03-14,"Czech Republic",Mediocampista,13
+234,Hadrian,Osgarby,2006-05-17,Indonesia,Delantero,14
+235,Moll,Syphas,2005-12-28,Thailand,Mediocampista,15
+236,Annie,Trotter,1992-02-20,Russia,Defensor,16
+237,Jose,Blackly,1996-05-01,Thailand,Delantero,17
+238,Quent,Cottesford,2003-01-03,Austria,Mediocampista,18
+239,Zabrina,Broomer,1994-06-11,Indonesia,Delantero,19
+240,Osmond,Coopey,1995-11-06,"Czech Republic",Portero,20
+241,Angil,Celiz,2007-01-30,Brazil,Delantero,1
+242,Evin,Fray,1994-07-10,China,Mediocampista,2
+243,Dena,Slingsby,2006-06-27,China,Portero,3
+244,Deane,Tween,1990-12-06,Germany,Defensor,4
+245,Joell,Walden,2007-07-10,Brazil,Portero,5
+246,Marisa,Tommen,2007-05-13,Argentina,Delantero,6
+247,Gaile,Plumb,2000-02-10,Brazil,Defensor,7
+248,Darill,"Le Sieur",1999-09-07,Russia,Mediocampista,8
+249,Thorny,Wooller,2005-04-18,Japan,Defensor,9
+250,Ester,Maypole,1992-03-03,Latvia,Portero,10
+251,Davie,Yuryatin,1999-01-08,Poland,Mediocampista,11
+252,Elvira,Scrivenor,2001-09-03,Cyprus,Defensor,12
+253,Tessa,Oxtaby,2007-02-02,Portugal,Portero,13
+254,Terrye,MacMichael,2006-09-22,Cuba,Portero,14
+255,Dex,Wontner,1994-03-19,"Czech Republic",Mediocampista,15
+256,Stephan,Truwert,2007-05-16,Indonesia,Mediocampista,16
+257,Herschel,Gulley,1991-03-15,Martinique,Defensor,17
+258,Normy,Vial,1995-02-20,Canada,Defensor,18
+259,Alvera,Emslie,2004-09-07,Indonesia,Defensor,19
+260,Kaiser,Ebbetts,1999-01-06,Indonesia,Defensor,20
+261,Sophronia,Sollime,1999-02-13,Indonesia,Mediocampista,1
+262,Greta,Silbert,1994-10-10,Macedonia,Portero,2
+263,Cosimo,Janacek,1995-08-28,"United States",Portero,3
+264,Debera,Ricards,1998-07-07,Portugal,Portero,4
+265,Tobi,Preedy,2004-03-25,Poland,Delantero,5
+266,Ernst,Matthis,1993-06-21,Portugal,Delantero,6
+267,Cordelia,Cheesley,2006-12-21,France,Delantero,7
+268,Greta,Seviour,2006-08-30,Uganda,Mediocampista,8
+269,Shannah,Cordeix,1994-02-16,Micronesia,Defensor,9
+270,Lindsay,Everington,1992-12-21,Lebanon,Defensor,10
+271,Chic,Shervington,1997-09-04,Philippines,Delantero,11
+272,Hanni,Jeger,2007-02-08,China,Mediocampista,12
+273,Katusha,Pellant,1991-01-08,Malaysia,Defensor,13
+274,Thaddeus,Shimmans,1995-10-24,Venezuela,Defensor,14
+275,Rene,Gammet,2005-02-15,Philippines,Portero,15
+276,Lily,Bodley,1995-04-23,Philippines,Mediocampista,16
+277,Myra,Guiness,2000-03-14,Philippines,Defensor,17
+278,Ammamaria,"le Keux",1995-12-18,China,Portero,18
+279,Randal,Seamen,2002-04-02,Yemen,Defensor,19
+280,Che,Scrivin,1991-06-25,Indonesia,Delantero,20
+281,Xaviera,Burgan,2000-06-11,Indonesia,Defensor,1
+282,Roseline,Rupke,1994-07-17,Sweden,Defensor,2
+283,Karoly,McCaskill,1995-04-26,China,Mediocampista,3
+284,Bernadene,McKinstry,1991-04-21,Indonesia,Mediocampista,4
+285,Dun,Cocke,1994-10-22,Serbia,Delantero,5
+286,Lucas,Griss,1995-04-19,Peru,Portero,6
+287,Jeno,Kondrat,1992-01-16,Norway,Defensor,7
+288,Jocelyn,Seman,1991-10-20,Philippines,Mediocampista,8
+289,Claudell,Flecknell,2003-02-02,Cuba,Delantero,9
+290,Hesther,Leveritt,2000-04-13,Greece,Delantero,10
+291,Simon,Crosio,1997-03-21,Mexico,Defensor,11
+292,Deck,Gorringe,1999-06-16,Peru,Portero,12
+293,Gabbie,Dearle,2001-05-31,China,Mediocampista,13
+294,Delora,Quemby,2005-12-19,Bangladesh,Defensor,14
+295,Loydie,Hearmon,1998-10-30,Macedonia,Delantero,15
+296,Sari,Giacopetti,1990-04-22,China,Mediocampista,16
+297,Jenica,Bernardoni,2003-12-27,Bulgaria,Defensor,17
+298,Otha,Beeble,2002-11-02,China,Delantero,18
+299,Sandi,Haville,2006-03-05,Mauritius,Portero,19
+300,Ceciley,Fumagalli,2005-12-10,China,Portero,20
+301,Skipper,McLennan,2000-06-30,China,Delantero,1
+302,Cam,MacGiany,1990-02-02,Russia,Delantero,2
+303,Latisha,Wardall,2006-07-18,Poland,Defensor,3
+304,Jeanie,Etienne,2005-09-14,Russia,Delantero,4
+305,Lyda,Wimbury,1993-11-21,Indonesia,Defensor,5
+306,Debra,Mussared,1995-11-04,Bhutan,Portero,6
+307,Harley,Limbert,1991-03-05,"Burkina Faso",Delantero,7
+308,Ilse,Clemits,1991-04-13,Cyprus,Mediocampista,8
+309,Moishe,Lytton,1990-01-09,Indonesia,Defensor,9
+310,Dirk,Revans,1996-10-13,Colombia,Portero,10
+311,Brien,Rosoman,1991-06-12,Croatia,Defensor,11
+312,Roseline,Korpal,2005-02-16,Ukraine,Delantero,12
+313,Ashli,Crichmer,2007-03-16,Cameroon,Delantero,13
+314,Ignatius,Whorf,1992-04-24,Russia,Portero,14
+315,Rosalia,Denniston,2002-11-07,Brazil,Portero,15
+316,Ahmad,Waddilow,1992-09-15,Peru,Mediocampista,16
+317,Mikey,Treppas,1998-07-01,Sweden,Portero,17
+318,Waylan,Gatchell,1994-12-19,Portugal,Mediocampista,18
+319,Stern,Schowenburg,1994-05-20,Russia,Defensor,19
+320,Con,Lipman,2000-02-07,China,Mediocampista,20
+321,Lindsey,Pinnegar,1990-02-14,Colombia,Delantero,1
+322,Avril,Hansberry,1991-11-18,Indonesia,Mediocampista,2
+323,Gwenore,McKue,1999-02-01,China,Delantero,3
+324,Emmi,Buscombe,2004-12-30,Ukraine,Defensor,4
+325,Ingelbert,Hastilow,2007-04-09,Philippines,Delantero,5
+326,Jozef,Bosnell,2001-08-19,Denmark,Delantero,6
+327,Normy,Jaouen,1997-06-05,Indonesia,Defensor,7
+328,Dorelia,Mairs,1993-11-21,Indonesia,Portero,8
+329,Codi,Quinnell,2007-09-08,Indonesia,Defensor,9
+330,Luther,Gomm,2003-01-11,China,Delantero,10
+331,Abdul,Braams,1998-10-29,Philippines,Delantero,11
+332,Kandace,Stocky,1996-08-24,Mexico,Mediocampista,12
+333,Lindsay,Hollyer,2004-05-08,Portugal,Mediocampista,13
+334,Mace,Duffit,1995-06-03,"Dominican Republic",Mediocampista,14
+335,Bobbe,O'Dyvoy,2003-02-24,"Bosnia and Herzegovina",Mediocampista,15
+336,Antonio,Simes,1995-10-31,Kazakhstan,Defensor,16
+337,Sarine,Berrill,2000-07-22,Vietnam,Mediocampista,17
+338,Rafaela,Cripin,2000-06-16,Thailand,Defensor,18
+339,Marjory,Walklott,1990-04-08,Ecuador,Defensor,19
+340,Farly,Davidovics,2005-03-05,China,Portero,20
+341,Niels,Spofford,2007-08-21,Malaysia,Delantero,1
+342,Opal,Capnerhurst,1999-08-14,Indonesia,Delantero,2
+343,Evy,Pinnock,1991-06-30,Philippines,Delantero,3
+344,Glynda,Labadini,2001-08-09,Indonesia,Defensor,4
+345,Rosalynd,Regis,2006-01-22,Argentina,Delantero,5
+346,Emlyn,Wyatt,2005-06-26,Argentina,Portero,6
+347,Nico,Kornel,2006-09-06,Russia,Portero,7
+348,Jackelyn,Pendred,1995-11-21,Mexico,Mediocampista,8
+349,Carin,Atter,1992-09-20,Guatemala,Delantero,9
+350,Glyn,Tomkin,1996-10-31,China,Mediocampista,10
+351,Arlene,Blundan,1992-02-05,Indonesia,Delantero,11
+352,Anett,Rosencwaig,1991-12-10,Canada,Delantero,12
+353,Daniel,Armstead,1997-05-13,"South Korea",Portero,13
+354,Sabra,Kornyshev,1995-06-25,"Dominican Republic",Portero,14
+355,Matthus,Rysom,2006-01-11,Thailand,Defensor,15
+356,Charley,Chagg,2004-08-21,"Czech Republic",Mediocampista,16
+357,Katey,Brussell,1991-01-27,Poland,Portero,17
+358,Tucker,Deniscke,2007-06-25,Serbia,Delantero,18
+359,Ashlan,Avrahm,2003-03-06,Philippines,Portero,19
+360,Hartley,Yanele,2005-09-04,Argentina,Portero,20
+361,Justino,Madine,1994-12-13,China,Portero,1
+362,Chantal,Shepcutt,2006-05-25,Ireland,Mediocampista,2
+363,Corey,Geeritz,2007-02-26,Canada,Delantero,3
+364,Cedric,"Di Boldi",2003-12-05,Morocco,Portero,4
+365,Milena,Humphery,2002-05-09,Nigeria,Mediocampista,5
+366,Gun,Fryd,1994-04-15,Lithuania,Portero,6
+367,Rickard,Kench,1991-06-02,China,Delantero,7
+368,Linet,Culpan,2000-04-05,"Czech Republic",Portero,8
+369,Flossie,Riddich,2006-07-23,Russia,Defensor,9
+370,Dita,Keavy,1994-11-30,Japan,Defensor,10
+371,Roshelle,Hallows,1990-09-16,Switzerland,Mediocampista,11
+372,Kelvin,Buffey,2001-07-13,Vietnam,Defensor,12
+373,Josy,Bleyman,1997-08-02,Argentina,Mediocampista,13
+374,Artur,"de Aguirre",1999-06-03,"United States",Mediocampista,14
+375,Lora,Houlison,1998-01-16,Philippines,Defensor,15
+376,Ailene,Mapston,1993-08-15,Madagascar,Mediocampista,16
+377,Rik,Woolerton,2002-03-10,Mongolia,Defensor,17
+378,Suzie,Escritt,1990-02-25,China,Defensor,18
+379,Marlyn,Berntssen,1993-04-15,Mexico,Defensor,19
+380,Herc,Goolden,2005-07-12,Nicaragua,Portero,20
+381,Ninnette,Atyea,1993-04-21,Indonesia,Portero,1
+382,Constancia,Manifield,1995-12-12,Ukraine,Delantero,2
+383,Nan,Anstee,2003-01-18,Indonesia,Portero,3
+384,Genevra,Hebblethwaite,2001-01-28,Yemen,Portero,4
+385,Rania,Bulluck,1998-12-03,Peru,Defensor,5
+386,Andrea,Bushell,1999-02-07,Poland,Mediocampista,6
+387,Alika,Trousdale,2004-05-11,Kazakhstan,Portero,7
+388,Ardra,Vass,1993-09-24,"South Korea",Defensor,8
+389,Lew,Tuny,2007-06-06,Uzbekistan,Portero,9
+390,Cecile,Stannus,1993-02-24,China,Defensor,10
+391,Sasha,Potebury,1993-08-29,China,Portero,11
+392,Edd,Etches,2005-11-09,Indonesia,Defensor,12
+393,Shayla,Guillou,1994-08-25,Kuwait,Delantero,13
+394,Faun,Bril,1996-12-03,Canada,Delantero,14
+395,Chase,Cawdell,2002-08-19,Colombia,Delantero,15
+396,Bobbee,Crispin,2006-03-11,China,Portero,16
+397,Taddeusz,Engel,1992-08-16,China,Portero,17
+398,Broderick,Ipsly,1996-06-30,France,Portero,18
+399,Abbie,Easterling,2003-05-03,China,Mediocampista,19
+400,Electra,Benfield,1992-04-16,Tanzania,Mediocampista,20
+401,Tymothy,Scouse,2002-05-18,Guatemala,Delantero,1
+402,Markos,Westley,1999-03-08,China,Defensor,2
+403,Trent,Siviter,1990-01-05,Vietnam,Delantero,3
+404,Boony,Tanswell,1995-01-08,Indonesia,Defensor,4
+405,Burl,Lightowlers,1992-07-10,Afghanistan,Delantero,5
+406,Truman,Lifton,1997-09-29,Malaysia,Defensor,6
+407,Malorie,Heisham,2003-09-08,China,Mediocampista,7
+408,Finley,Fourmy,1993-06-13,France,Defensor,8
+409,Miner,Killingbeck,2001-06-05,Brazil,Defensor,9
+410,Matthiew,Gantzer,2007-06-11,Chile,Delantero,10
+411,Darnall,Ridwood,1998-04-22,Philippines,Portero,11
+412,Chas,Duddan,1997-10-02,China,Portero,12
+413,Evangelin,Wetherald,1994-11-04,Finland,Delantero,13
+414,Lori,Silverwood,2000-05-08,Egypt,Mediocampista,14
+415,Nananne,Willoway,2004-10-29,Indonesia,Delantero,15
+416,Warren,MacGoun,2005-08-23,Canada,Mediocampista,16
+417,Jessica,Frederick,2002-07-31,Indonesia,Defensor,17
+418,Frankie,Colgan,1999-03-06,China,Delantero,18
+419,Ignatius,Rigg,2007-04-22,Sweden,Portero,19
+420,Carilyn,Beebe,1993-06-14,China,Defensor,20
+421,Jobyna,Stodhart,1991-09-28,Macedonia,Delantero,1
+422,Lind,Dicks,2003-06-22,China,Portero,2
+423,Elbertina,Nowill,1992-03-19,China,Delantero,3
+424,King,Copcote,1991-10-17,Philippines,Mediocampista,4
+425,Reggie,MacCracken,1991-11-25,Uganda,Delantero,5
+426,Hunfredo,Royse,2001-01-13,Poland,Mediocampista,6
+427,Holly-anne,Emms,2000-03-10,Philippines,Mediocampista,7
+428,Nickey,Faltskog,1998-11-22,"Bosnia and Herzegovina",Mediocampista,8
+429,Lowrance,Vsanelli,2006-07-25,Russia,Portero,9
+430,Goldy,Faucett,2004-06-16,Japan,Defensor,10
+431,Ardelle,Jeyness,1996-11-04,Ukraine,Defensor,11
+432,Jere,Pennaman,2004-03-09,China,Portero,12
+433,Phillipe,Dunley,2006-10-30,France,Defensor,13
+434,Wadsworth,Gouldbourn,1995-09-09,Japan,Portero,14
+435,Vladimir,Ghilks,2006-04-13,"Czech Republic",Mediocampista,15
+436,Luca,Canepe,1998-06-11,"United Kingdom",Portero,16
+437,Filippo,Reignard,1990-06-02,China,Portero,17
+438,Purcell,Kleinbaum,1992-08-09,China,Delantero,18
+439,Hildagard,Febvre,2001-08-31,Mexico,Delantero,19
+440,Blake,Demicoli,1994-01-08,Indonesia,Delantero,20
+441,Man,Mattinson,1997-02-27,"Czech Republic",Portero,1
+442,Christina,Ling,1996-06-22,China,Mediocampista,2
+443,Frederico,Strafen,1998-01-12,"Czech Republic",Defensor,3
+444,Ky,"Mc Caughan",2002-10-29,Argentina,Mediocampista,4
+445,Gloriane,Curteis,2007-02-19,Canada,Delantero,5
+446,Tam,Pinxton,2001-01-09,Ukraine,Portero,6
+447,Johannes,Holt,1991-07-02,Indonesia,Mediocampista,7
+448,Minny,Passe,2005-03-06,"Democratic Republic of the Congo",Portero,8
+449,Rafaelita,Patsall,1993-12-27,France,Mediocampista,9
+450,Vernor,Crommett,1996-05-02,Philippines,Defensor,10
+451,Catharina,Crocumbe,1995-07-28,China,Delantero,11
+452,Janot,Every,2002-11-10,Canada,Portero,12
+453,Patsy,Armistead,2004-09-30,China,Mediocampista,13
+454,Davida,Illidge,1999-10-01,Canada,Portero,14
+455,Tonia,Antrim,1994-12-01,China,Mediocampista,15
+456,Wendall,Letten,2007-06-20,Peru,Delantero,16
+457,Philipa,Tart,1999-01-15,Canada,Portero,17
+458,Hendrick,Melladew,1993-10-15,Poland,Defensor,18
+459,Tomkin,Knappe,2000-10-07,Sweden,Portero,19
+460,Marj,Exton,2007-11-11,China,Mediocampista,20
+461,Willyt,Mithon,1992-10-07,Philippines,Portero,1
+462,Jonell,Cleef,2005-08-31,"Czech Republic",Portero,2
+463,Brok,Wand,1999-09-08,Ethiopia,Mediocampista,3
+464,Hildagard,Yea,1996-05-04,Mongolia,Defensor,4
+465,Artur,Waddilow,2007-06-07,Indonesia,Delantero,5
+466,Michel,Leirmonth,1995-10-26,China,Mediocampista,6
+467,Woody,Bagge,1993-11-03,Ukraine,Delantero,7
+468,Carine,Mallia,2000-12-07,"United States",Mediocampista,8
+469,Ambros,Hoult,2006-02-21,Nigeria,Mediocampista,9
+470,Bartholemy,Deverill,1997-01-18,France,Delantero,10
+471,Pam,Parcells,2006-06-01,Nigeria,Mediocampista,11
+472,Dael,Bretland,1997-12-02,Peru,Defensor,12
+473,Lois,Coltart,2007-10-22,Philippines,Defensor,13
+474,Hardy,"Van den Velden",2006-11-15,Ireland,Mediocampista,14
+475,Brenna,Easseby,1991-01-17,Indonesia,Defensor,15
+476,Pandora,Lawford,1998-04-02,Philippines,Mediocampista,16
+477,Judye,Ambroziak,2005-07-27,Cuba,Delantero,17
+478,Karlyn,Deverille,1990-09-11,Portugal,Defensor,18
+479,Vivyanne,Hinckes,1990-11-11,Indonesia,Portero,19
+480,Caterina,Windows,2002-11-24,China,Defensor,20
+481,Elysia,Patemore,2002-07-15,Nepal,Portero,1
+482,Sonnie,Pocklington,2007-03-13,China,Mediocampista,2
+483,Kirby,Avieson,1991-09-01,China,Portero,3
+484,Cris,Connah,2005-11-08,Bangladesh,Defensor,4
+485,Florrie,Deware,1996-08-12,Netherlands,Mediocampista,5
+486,Cosimo,Werrett,2001-10-13,Indonesia,Defensor,6
+487,Ardyce,Teesdale,1991-03-27,Brazil,Mediocampista,7
+488,Tye,"De Mico",1993-07-08,Colombia,Delantero,8
+489,Bryan,Boundey,2002-07-03,Indonesia,Defensor,9
+490,Alf,Goudard,2007-07-27,Brazil,Mediocampista,10
+491,Pierrette,Pinsent,1990-05-11,Chile,Portero,11
+492,Chelsie,Dewbury,2001-01-30,Ukraine,Defensor,12
+493,Dallas,Zannelli,1994-11-24,"Czech Republic",Portero,13
+494,Ambrose,Wolfindale,2004-06-27,Indonesia,Portero,14
+495,Joceline,Escalante,2001-12-25,China,Mediocampista,15
+496,Zane,Mander,2004-10-30,"El Salvador",Mediocampista,16
+497,Farra,Gerty,1994-10-18,Albania,Defensor,17
+498,Dorolice,Castlake,2007-05-09,Russia,Defensor,18
+499,Evin,Ohm,2001-03-19,Ukraine,Portero,19
+500,Peggy,Bourcq,1992-08-27,Greece,Defensor,20
